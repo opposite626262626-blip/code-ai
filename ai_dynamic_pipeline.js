@@ -6,7 +6,7 @@ const readline = require('readline');
 // =================================================================
 // [CONFIGURATION] ตั้งค่ารหัสการเชื่อมต่อระบบของคุณ
 // =================================================================
-const GITHUB_TOKEN = "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"; 
+const GITHUB_TOKEN = "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"; 
 const REPO_OWNER = "opposite626262626-blip"; 
 const REPO_NAME = "AI";                   
 const BRANCH = "main";
